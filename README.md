@@ -20,7 +20,7 @@ Code.
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
 text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
-the file. Then set the `href` attribute of your new link element to
+the file. Then set the `href` ` attribute of your new link element to
 `https://flatironschool.com`.
 
 Check your progress by running `npm test`. Failing tests will provide helpful
